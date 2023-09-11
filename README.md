@@ -6,5 +6,5 @@ The raw data to be analyzed in this study is obtained from Medellín’s open da
 
 This workshop is composed of two main parts:
 
-* Data analysis and datasets preparation
-* Supervised machine learning for crash severity prediction
+* Data analysis and datasets preparation: https://colab.research.google.com/drive/1o5kQ-eGJxonlqGkpzVwTAkqayUqxFKzn?usp=share_link
+* Supervised machine learning for crash severity prediction: https://colab.research.google.com/drive/1fNNZ-Fgrm3q9lNErq_7yoMXmeyibGAgE?usp=share_link
